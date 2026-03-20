@@ -27,7 +27,11 @@ Then the user should enter "./textFiles/file.txt" to perform a lexical analysis 
 
 ## Development Environment:
 Language:           C24
+
 Compiler:           GNU Compiler Collection (GCC 15.2.1)
+
 Code Editory:       Vim
+
 Debugger:           GNU Debugger (GDB 17.1-4.fc43)
+
 Operating System:   Fedora Linux 43
