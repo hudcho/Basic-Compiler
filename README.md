@@ -1,5 +1,6 @@
 # Lexical Analyzer
 Created by: Hudson Cho
+
 Description: The goal of this assignment was to create a lexical analyzer that would parse an input file into tokens, adding fields like position, kind, and value, to be later used by a syntax analyzer. Currently main is configured to simply output all tokens processed.
 
 ## Build Instructions:
